@@ -1,6 +1,6 @@
-# Standered-Shape-Recognizor
+# Standard-Shape-Recognizor
 
-recognize diffrent types of gemotrical shapes based on morpholgy.
+recognize different types of gemotrical shapes based on morpholgy.
 
 # How to use it
 1-run SSR.m  in matlab
