@@ -1,4 +1,4 @@
-# Standard-Shape-Recognizor
+# Standard-Shape-Recognizer
 
 recognize different types of gemotrical shapes based on morpholgy.
 
